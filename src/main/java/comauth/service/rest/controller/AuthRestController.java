@@ -24,9 +24,7 @@ public class AuthRestController {
 
 	@PostMapping("/auth/login")
 	public ResponseEntity<String> login(@RequestBody LoginRequest dto) {
-		System.out.println(dto.getUserName()+dto.getPassword());
 		UserEntity user = userService.findByUserName(dto.getUserName());
-		System.out.println(user.getUserName()+user.getPassword());
 
 		if(user!=null && user.getPassword().equals(dto.getPassword())){
 			String token = jwtUtil.generateToken(dto.getUserName());

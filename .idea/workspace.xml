@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e94a9e06-a806-48a7-8f1c-27249c1e3b58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/comauth/service/dto/BaseDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comauth/service/dto/LoginRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comauth/service/dto/RoleDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comauth/service/dto/StatusDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comauth/service/dto/UserDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comauth/service/models/BaseModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comauth/service/models/RoleEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comauth/service/models/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comauth/service/repository/RoleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comauth/service/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comauth/service/rest/controller/RoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comauth/service/rest/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comauth/service/services/RoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comauth/service/services/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comauth/service/transformer/RoleTransformer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comauth/service/transformer/UserTransformer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/comauth/service/AuthServiceApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comauth/service/AuthServiceApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/comauth/service/rest/controller/AuthRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comauth/service/rest/controller/AuthRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/comauth/service/AuthServiceApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/comauth/service/AuthServiceApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/comauth/service/rest/controller/AuthRestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/comauth/service/rest/controller/AuthRestController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
